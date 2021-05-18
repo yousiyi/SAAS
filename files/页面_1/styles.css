@@ -212,7 +212,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'Microsoft YaHei ', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -226,7 +226,7 @@
   width:460px;
   height:112px;
   display:flex;
-  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-family:'Microsoft YaHei ', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -260,7 +260,7 @@
   width:24px;
   height:26px;
   display:flex;
-  font-family:'anticon';
+  font-family:'anticon ', 'anticon';
   font-weight:400;
   font-style:normal;
   font-size:52px;
