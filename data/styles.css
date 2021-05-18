@@ -69,6 +69,11 @@
 }
 ._连接 {
 }
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
 .box_3 {
 }
 .box_2 {
@@ -96,7 +101,7 @@
 .ellipse {
 }
 ._形状1 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:600;
   font-style:normal;
 }
@@ -111,12 +116,20 @@
 }
 .shape {
 }
+.connector {
+}
 .line {
 }
 .image {
   color:#000000;
 }
+.placeholder {
+}
 .line1 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
 .flow_shape {
 }
@@ -179,6 +192,19 @@
 .box_11 {
 }
 .vertical_line {
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.table {
+}
+.table_cell {
 }
 .iconfont {
   font-family:'iconfont ', 'iconfont';
