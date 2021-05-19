@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="153px" height="41px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip21">
+    <mask fill="white" id="clip28">
       <path d="M 0 39  L 0 2  C 0 0.880000000000109  0.880000000000109 0  2 0  L 83.1666666666667 0  L 90.1162790697665 0  L 151 0  C 152.12 0  153 0.880000000000109  153 2  L 153 39  C 153 40.1199999999999  152.12 41  151 41  L 2 41  C 0.880000000000109 41  0 40.1199999999999  0 39  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -349 -2295 )">
     <image preserveAspectRatio="none" style="overflow:visible" width="153" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJkAAAApCAYAAAAmlovPAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEaSURBVHhe7dy7WcMwAIVRy3vAFClYIcsADQVzMBQpMlOELNsJkC727c7xQ4/6/1SqPB3fD8NQv8pQX4Y7ZRnhAWU41Uv9aJG9fffAam2ba1TzeF3Co8pwHq+BTdaxERjbTRGVQ3k+vs5lLSdZ6XW1r0emNLa7Rdb0wNbI1sB0xgbt2Fojm0v6E1l/5314WOvpGtnc1vQbb4H1NWzTi7q1NE8Exp5aZP9oi53dRwY7ExlxIiNOZMSJjDiREScy4kRGnMiIExlxIiNOZMSJjDiREScy4kRGnMiIExlxIiNOZMSJjDiREScy4kRGnMiIExlxIiNOZMSJjLhfkbnOh4yxtXVa5rC7Wut5nO5Zb6Gdl6sW+wN76IGN5fMHPhAqCg5nZgoAAAAASUVORK5CYII=" x="0px" y="0px" transform="matrix(1 0 0 1 349 2295 )" />
-    <path d="M 0 39  L 0 2  C 0 0.880000000000109  0.880000000000109 0  2 0  L 83.1666666666667 0  L 90.1162790697665 0  L 151 0  C 152.12 0  153 0.880000000000109  153 2  L 153 39  C 153 40.1199999999999  152.12 41  151 41  L 2 41  C 0.880000000000109 41  0 40.1199999999999  0 39  Z " stroke-width="2" stroke="#bcbcbc" fill="none" transform="matrix(1 0 0 1 349 2295 )" mask="url(#clip21)" />
+    <path d="M 0 39  L 0 2  C 0 0.880000000000109  0.880000000000109 0  2 0  L 83.1666666666667 0  L 90.1162790697665 0  L 151 0  C 152.12 0  153 0.880000000000109  153 2  L 153 39  C 153 40.1199999999999  152.12 41  151 41  L 2 41  C 0.880000000000109 41  0 40.1199999999999  0 39  Z " stroke-width="2" stroke="#bcbcbc" fill="none" transform="matrix(1 0 0 1 349 2295 )" mask="url(#clip28)" />
   </g>
 </svg>
